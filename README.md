@@ -204,3 +204,5 @@ Smoke-тесты:
 - Notification сервис - http://localhost:9920/swagger-ui/index.html
 
 ___
+
+2025-08-05 Внесение изменений в соответствии с 'task#1139'
