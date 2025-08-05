@@ -3,6 +3,7 @@ package ru.checkdev.notification;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
+import org.junit.jupiter.api.TestInstance;
 
 /**
  * Unit test for simple App.

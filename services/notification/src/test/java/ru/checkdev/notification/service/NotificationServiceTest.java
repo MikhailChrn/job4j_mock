@@ -12,7 +12,6 @@ import ru.checkdev.notification.domain.Notify;
  * @author olegbelov
  *
  */
-@Ignore
 public class NotificationServiceTest {
 
     @Test
