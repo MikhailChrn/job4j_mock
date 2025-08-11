@@ -4,6 +4,10 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+/**
+ * Вынес в отдельное поле 'String submitterName'; *
+ */
+
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
@@ -28,4 +32,6 @@ public class InterviewDTO {
     private String createDate;
 
     private int topicId;
+
+    private String submitterName;
 }
