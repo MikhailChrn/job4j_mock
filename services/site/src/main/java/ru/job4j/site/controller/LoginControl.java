@@ -16,13 +16,6 @@ import ru.job4j.site.service.AuthService;
 import javax.servlet.http.HttpServletRequest;
 import java.util.Map;
 
-/**
- * Назначение: Страницы входа и выхода.
- * Особенности:
- * Обрабатывает параметры ошибки и логаута.
- * Используется в связке с Spring Security.
- */
-
 @Controller
 @AllArgsConstructor
 @Slf4j
